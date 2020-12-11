@@ -1,3 +1,51 @@
-# Prepare for algorithm interview
-I am Mermaid Liu, this repo is used for preparing for interview, especially Microsoft.
-Help more and more people learning algorithm!
+# Daily
+
+## Notice
+
+> 这是为了申请Microsoft职位特殊开辟的一个Repo
+>
+> 打卡Leetcode和剑指Offer中的题目
+>
+> 欢迎大家监督：）我会会会加油的！
+
+```
+{\ _ /}
+(* . *)
+ >I加油I
+```
+
+## Update Log
+
+### 剑指Offer
+
+| Date  | Title-Link                                            | Method | Describe                                   | TODO |
+| ----- | ----------------------------------------------------- | ------ | ------------------------------------------ | ---- |
+| 12.12 | [剑指 Offer 17. 打印从1到最大的n位数](LeetCode/202007/魔术索引.md) | 大数计算 |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
+|       |                                                       |        |                                            |      |
